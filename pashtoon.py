@@ -228,7 +228,7 @@ def sarfraz():
 
     elif select =='3':
 
-        random_number(0310,0333,0345)
+        random_number()
 
     elif select =='4':
 
